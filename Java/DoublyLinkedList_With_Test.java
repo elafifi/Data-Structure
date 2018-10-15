@@ -6,6 +6,8 @@ package data_structure;
  * @author Ahmed Elafifi
  * date :15/10/2018
  * category: DoublyLinkedList (Data Structure) with java
+ *
+ * reference that help me: Data Structures & Algorithms in Java, Second Edition Robert Lafore
  */
 
  public class DoublyLinkedList_With_Test {
